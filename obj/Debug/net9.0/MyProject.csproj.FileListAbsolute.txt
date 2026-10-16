@@ -1,0 +1,6 @@
+C:\Users\mikap\OneDrive\שולחן העבודה\MyProject\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\mikap\OneDrive\שולחן העבודה\MyProject\obj\Debug\net9.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikap\OneDrive\שולחן העבודה\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\mikap\OneDrive\שולחן העבודה\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfo.cs
+C:\Users\mikap\OneDrive\שולחן העבודה\MyProject\obj\Debug\net9.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\mikap\OneDrive\שולחן העבודה\MyProject\obj\Debug\net9.0\MyProject.MvcApplicationPartsAssemblyInfo.cache
